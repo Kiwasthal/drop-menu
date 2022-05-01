@@ -12,6 +12,7 @@ You will need the following packages :
     <li>babel-loader</li>
     <li>webpack</li>
     <li>webpack-cli</li>
+</ul>
 
 You can install all the dependencies by running:
 
