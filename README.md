@@ -22,5 +22,13 @@ You can install all the dependencies by running:
 
 https://user-images.githubusercontent.com/99625875/166160447-d510cb51-835d-4569-91d8-5cb04fdc4fd2.mp4
 
+-Passing a reference as the first arguement of the imported function will append the drop-down menu to the referenced element.
+-The second arguement will determine the main color of your dropdown
+-The third and fourth parameters determene the hover - and active colors of your drop-down.
+-The fifth parameter sets the font-color.
+-You can insert more arguements, and each one will create a new anchor element in your drop-down.
+
+The drop-down menu is generated with a completely random id - so you can create as many as you would like in the same page and you can reference each one individually.
+
 
 
