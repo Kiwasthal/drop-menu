@@ -13,3 +13,5 @@ You can install all the dependencies by running:
 
 https://user-images.githubusercontent.com/99625875/166160447-d510cb51-835d-4569-91d8-5cb04fdc4fd2.mp4
 
+# How to use
+
