@@ -34,7 +34,7 @@ The drop-down menu is generated with a completely random id - so you can create 
 
 # About
 
-This project is part of OTP's series on :Javascript In The Real World - Dynamic User Interface Interactions. The main idea is creating a reusable module and publish it to npm so it can be installed every-time it's needed. While researching for optimized ways to create and publish packages I came in contact with interesting concepts about how the industry approaches the procedure , the use of compilers like babel (part of the bigger picture of an oprimized build), and the many intricate ways webpack handles dependencies allowing a dynamic modular approach to development . This lead to a deeper understanding of the importance of the steps taken in the production procedure.
+This project is part of OTP's series on :Javascript In The Real World - Dynamic User Interface Interactions. The main idea is creating a reusable module and publish it to npm so it can be installed every-time it's needed. While researching for optimized ways to create and publish packages I came in contact with interesting concepts about how the industry approaches the procedure ,the importance of testing along with the use of compilers like babel (part of the bigger picture of an oprimized build), and the many intricate ways webpack handles dependencies allowing a dynamic modular approach to development . This lead to a deeper understanding of the importance of the steps taken in the production procedure.
 
 
 
