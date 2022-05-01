@@ -1,0 +1,30 @@
+{
+  "name": "kiwasthal-dropmenu",
+  "version": "1.0.0",
+  "description": "A simple drop menu package",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kiwasthal/drop-menu.git"
+  },
+  "keywords": [
+    "npm",
+    "package",
+    "drop-menu"
+  ],
+  "author": "Kiwasthal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kiwasthal/drop-menu/issues"
+  },
+  "homepage": "https://github.com/Kiwasthal/drop-menu#readme",
+  "devDependencies": {
+    "@babel/core": "^7.17.10",
+    "babel-loader": "^8.2.5",
+    "webpack": "^5.72.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
