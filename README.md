@@ -9,3 +9,7 @@ To install the package run :
 You can install all the dependencies by running:
 
     npm i -D @babel/core babel-loader webpack webpack-cli
+
+
+https://user-images.githubusercontent.com/99625875/166160416-647a7101-5331-4d33-805f-6542b5cd8640.mp4
+
