@@ -24,7 +24,7 @@ https://user-images.githubusercontent.com/99625875/166160447-d510cb51-835d-4569-
 
 <ol>
     <li>Passing a reference as the first arguement of the imported function will append the drop-down menu to the referenced element.</li>
-    <li>The second arguement will determine the main color of your dropdown</li>
+    <li>The second arguement will determine the main color of your dropdown.</li>
     <li>The third and fourth parameters determine the hover - and active colors of your drop-down.</li>
     <li>The fifth parameter sets the font-color.</li>
     <li>You can insert more arguements, and each one will create a new anchor element in your drop-down.</li>
