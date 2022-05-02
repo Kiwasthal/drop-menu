@@ -27,7 +27,7 @@ https://user-images.githubusercontent.com/99625875/166160447-d510cb51-835d-4569-
     <li>The second arguement will determine the main color of your dropdown.</li>
     <li>The third and fourth parameters determine the hover - and active colors of your drop-down.</li>
     <li>The fifth parameter sets the font-color.</li>
-    <li>You can insert more arguements, and each one will create a new anchor element in your drop-down.</li>
+    <li>You can insert more arguements each one will create a new anchor element in your drop-down.</li>
 </ol>
 
 The drop-down menu is generated with a completely random id - so you can create as many as you would like in the same page and you can reference each one individually.
